@@ -158,7 +158,7 @@
   </url>
   <url>
     <loc>http://madisen.com/lonelyself-kindness.html</loc>
-    <lastmod>2018-04-03</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -167,16 +167,25 @@
   </url>
   <url>
     <loc>http://madisen.com/lonelyall.html</loc>
-    <lastmod>2018-04-03</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://madisen.com/images/img_2936-crop-u1204.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://madisen.com/images/img_5512.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://madisen.com/images/img_0350.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://madisen.com/images/img_6467448x336.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://madisen.com/lonelymindfulness.html</loc>
-    <lastmod>2018-04-03</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -185,7 +194,7 @@
   </url>
   <url>
     <loc>http://madisen.com/lonelycommon-humanity.html</loc>
-    <lastmod>2018-04-03</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -209,10 +218,16 @@
     <image:image>
       <image:loc>http://madisen.com/images/img_2936.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://madisen.com/images/img_5512.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://madisen.com/images/img_0350.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://madisen.com/stressedmindfulness.html</loc>
-    <lastmod>2018-04-03</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -221,7 +236,7 @@
   </url>
   <url>
     <loc>http://madisen.com/stressedcommon-humanity.html</loc>
-    <lastmod>2018-04-03</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -230,7 +245,7 @@
   </url>
   <url>
     <loc>http://madisen.com/unmotivatedself-kindness.html</loc>
-    <lastmod>2018-04-03</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -239,16 +254,22 @@
   </url>
   <url>
     <loc>http://madisen.com/unmotivatedall.html</loc>
-    <lastmod>2018-04-03</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://madisen.com/images/img_2936.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://madisen.com/images/img_5512.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://madisen.com/images/img_0350.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://madisen.com/unmotivatedmindfulness.html</loc>
-    <lastmod>2018-04-03</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -257,7 +278,7 @@
   </url>
   <url>
     <loc>http://madisen.com/unmotivatedcommon-humanity.html</loc>
-    <lastmod>2018-04-03</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -266,16 +287,22 @@
   </url>
   <url>
     <loc>http://madisen.com/anxiousall.html</loc>
-    <lastmod>2018-04-03</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://madisen.com/images/img_2936.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://madisen.com/images/img_5512.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://madisen.com/images/img_0350.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://madisen.com/anxiousmindfulness.html</loc>
-    <lastmod>2018-04-03</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -284,7 +311,7 @@
   </url>
   <url>
     <loc>http://madisen.com/anxiouscommon-humanity.html</loc>
-    <lastmod>2018-04-03</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -293,7 +320,7 @@
   </url>
   <url>
     <loc>http://madisen.com/anxiousself-kindness.html</loc>
-    <lastmod>2018-04-03</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -302,11 +329,14 @@
   </url>
   <url>
     <loc>http://madisen.com/research.html</loc>
-    <lastmod>2018-04-03</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://madisen.com/images/img_2491.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://madisen.com/images/204-crop-u2112.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -344,11 +374,29 @@
     <image:image>
       <image:loc>http://madisen.com/images/img_5199.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://madisen.com/images/247.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://madisen.com/images/img_4094.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://madisen.com/compassion-for-others.html</loc>
-    <lastmod>2018-04-03</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://madisen.com/images/img_2891%20(1).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://madisen.com/images/254.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://madisen.com/images/12642439_10153455543959007_6098491029800078278_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://madisen.com/images/img_1834.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
