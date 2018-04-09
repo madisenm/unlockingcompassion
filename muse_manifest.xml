@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madisen.com" resolutions="1x" timestamp="1522893480733">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="madisen.com" resolutions="1x" timestamp="1523308497494">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3885570984" ref="unmotivateddefeated:depressedsadhelpless:stressedoverwhelmed:anxiousinsecureafraid:lonelylost:angryfrustrated:negative-emotion-practices:index"/>
@@ -7,22 +7,22 @@
     <file name="stressedcommon-humanity.css" crc="4002263088" ref="stressedcommon-humanity"/>
     <file name="unmotivateddefeated.css" crc="3849303816" ref="unmotivateddefeated"/>
     <file name="lonelycommon-humanity.css" crc="3899562217" ref="lonelycommon-humanity"/>
-    <file name="angryall.css" crc="3975932605" ref="angryall"/>
-    <file name="depressedmindfulness.css" crc="471350289" ref="depressedmindfulness"/>
+    <file name="angryall.css" crc="118192973" ref="angryall"/>
+    <file name="depressedmindfulness.css" crc="498398242" ref="depressedmindfulness"/>
     <file name="anxiouscommon-humanity.css" crc="394428839" ref="anxiouscommon-humanity"/>
     <file name="angryself-kindness.css" crc="3917493910" ref="angryself-kindness"/>
     <file name="depressedsadhelpless.css" crc="348834964" ref="depressedsadhelpless"/>
     <file name="unmotivatedcommon-humanity.css" crc="530311770" ref="unmotivatedcommon-humanity"/>
     <file name="stressedmindfulness.css" crc="3943440543" ref="stressedmindfulness"/>
     <file name="lonelymindfulness.css" crc="4270576702" ref="lonelymindfulness"/>
-    <file name="depressedself-kindness.css" crc="83237896" ref="depressedself-kindness"/>
+    <file name="depressedself-kindness.css" crc="4153131010" ref="depressedself-kindness"/>
     <file name="anxiousmindfulness.css" crc="195903047" ref="anxiousmindfulness"/>
-    <file name="depressedcommon-humanity.css" crc="282362769" ref="depressedcommon-humanity"/>
+    <file name="depressedcommon-humanity.css" crc="4163912280" ref="depressedcommon-humanity"/>
     <file name="stressedoverwhelmed.css" crc="448570912" ref="stressedoverwhelmed"/>
     <file name="stressedself-kindness.css" crc="4183021701" ref="stressedself-kindness"/>
     <file name="anxiousinsecureafraid.css" crc="4022586290" ref="anxiousinsecureafraid"/>
     <file name="lonelyself-kindness.css" crc="438923187" ref="lonelyself-kindness"/>
-    <file name="anxiousall.css" crc="3939998647" ref="anxiousall"/>
+    <file name="anxiousall.css" crc="51782968" ref="anxiousall"/>
     <file name="unmotivatedmindfulness.css" crc="4009407221" ref="unmotivatedmindfulness"/>
     <file name="anxiousself-kindness.css" crc="4181356889" ref="anxiousself-kindness"/>
     <file name="angrymindfulness.css" crc="3995401933" ref="angrymindfulness"/>
@@ -30,14 +30,14 @@
     <file name="angrycommon-humanity.css" crc="4137159895" ref="angrycommon-humanity"/>
     <file name="lonelylost.css" crc="4039351079" ref="lonelylost"/>
     <file name="index.css" crc="120913930" ref="index"/>
-    <file name="depressedall.css" crc="231211659" ref="depressedall"/>
+    <file name="depressedall.css" crc="4054907121" ref="depressedall"/>
     <file name="stressedall.css" crc="4101843834" ref="stressedall"/>
     <file name="angryfrustrated.css" crc="57491568" ref="angryfrustrated"/>
     <file name="unmotivatedall.css" crc="3991813301" ref="unmotivatedall"/>
     <file name="research.css" crc="4221070037" ref="research"/>
     <file name="full-list-of-practices.css" crc="100366335" ref="full-list-of-practices"/>
     <file name="negative-emotion-practices.css" crc="324971438" ref="negative-emotion-practices"/>
-    <file name="compassion-for-others.css" crc="3892064920" ref="compassion-for-others"/>
+    <file name="compassion-for-others.css" crc="23972377" ref="compassion-for-others"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:angryfrustrated:depressedsadhelpless:lonelylost:stressedoverwhelmed:unmotivateddefeated:anxiousinsecureafraid:angryself-kindness:angrycommon-humanity:angrymindfulness:angryall:depressedself-kindness:depressedall:depressedmindfulness:depressedcommon-humanity:lonelyself-kindness:lonelyall:lonelymindfulness:lonelycommon-humanity:stressedself-kindness:stressedall:stressedmindfulness:stressedcommon-humanity:unmotivatedself-kindness:unmotivatedall:unmotivatedmindfulness:unmotivatedcommon-humanity:anxiousall:anxiousmindfulness:anxiouscommon-humanity:anxiousself-kindness:research:negative-emotion-practices:full-list-of-practices:compassion-for-others"/>
@@ -242,13 +242,10 @@
       <caption webpage="lonelyall" alt=""/>
       <caption webpage="angryall" alt=""/>
     </file>
-    <file name="u1911-38.png" crc="4008275103" ref="depressedself-kindness"/>
     <file name="img_6467.jpg" crc="4294069859" seo="true" ref="depressedall">
       <caption webpage="depressedall" alt=""/>
     </file>
     <file name="u1917-17.png" crc="118404900" ref="depressedmindfulness"/>
-    <file name="u1842-36.png" crc="369578064" ref="depressedcommon-humanity"/>
-    <file name="u1845-22.png" crc="357895437" ref="depressedcommon-humanity"/>
     <file name="u1848-36.png" crc="4164015775" ref="lonelycommon-humanity"/>
     <file name="u1849-22.png" crc="4187679659" ref="lonelycommon-humanity"/>
     <file name="u1860-36.png" crc="4248393153" ref="unmotivatedcommon-humanity"/>
@@ -260,18 +257,14 @@
     <file name="u1992-4.png" crc="474671127" ref="angrycommon-humanity"/>
     <file name="u1333-16.png" crc="4066561519" ref="angrymindfulness"/>
     <file name="u2004-4.png" crc="70637719" ref="angrymindfulness"/>
-    <file name="u1983-6.png" crc="4028140592" ref="angryall"/>
-    <file name="u1995-6.png" crc="4028140592" ref="angryall"/>
     <file name="u1821-84.png" crc="3868273847" ref="angryall"/>
     <file name="u1998-6.png" crc="4028140592" ref="angryall"/>
     <file name="u2001-6.png" crc="4028140592" ref="angryall"/>
     <file name="u2034-4.png" crc="3989965054" ref="depressedall"/>
-    <file name="u2037-4.png" crc="3989965054" ref="depressedall"/>
     <file name="u1914-125.png" crc="208215001" ref="depressedall"/>
     <file name="u2040-4.png" crc="3989965054" ref="depressedall"/>
     <file name="u2046-4.png" crc="3989965054" ref="depressedall"/>
     <file name="u2049-4.png" crc="3989965054" ref="depressedall"/>
-    <file name="u1921-22.png" crc="4000411639" ref="depressedmindfulness"/>
     <file name="u1986-4.png" crc="81272654" ref="full-list-of-practices"/>
     <file name="u2010-4.png" crc="81272654" ref="full-list-of-practices"/>
     <file name="u2013-4.png" crc="81272654" ref="full-list-of-practices"/>
@@ -285,7 +278,7 @@
     <file name="u2088-6.png" crc="4028140592" ref="lonelyall"/>
     <file name="u2091-6.png" crc="4028140592" ref="lonelyall"/>
     <file name="u2079-92.png" crc="388540284" ref="lonelyall"/>
-    <file name="u2122-16.png" crc="4066561519" ref="lonelymindfulness"/>
+    <file name="u2122-16.png" crc="338088652" ref="lonelymindfulness"/>
     <file name="u2125-4.png" crc="70637719" ref="lonelymindfulness"/>
     <file name="u1973-18.png" crc="3774431357" ref="stressedself-kindness"/>
     <file name="u2152-4.png" crc="4274734566" ref="stressedself-kindness"/>
@@ -308,7 +301,6 @@
     <file name="u2427-18.png" crc="4285703683" ref="unmotivatedmindfulness"/>
     <file name="u2430-6.png" crc="4028140592" ref="unmotivatedmindfulness"/>
     <file name="u1861-23.png" crc="3866966916" ref="unmotivatedcommon-humanity"/>
-    <file name="u1964-117.png" crc="289677492" ref="anxiousall"/>
     <file name="u2203-4.png" crc="81272654" ref="anxiousall"/>
     <file name="u2224-4.png" crc="471003163" ref="anxiousall"/>
     <file name="u1967-43.png" crc="4134552068" ref="anxiousmindfulness"/>
@@ -347,21 +339,24 @@
       <caption webpage="research" alt=""/>
     </file>
     <file name="u1388-110.png" crc="4262006447" ref="research"/>
-    <file name="img_2891 (1).jpg" crc="4023560741" seo="true" ref="compassion-for-others">
-      <caption webpage="compassion-for-others" alt=""/>
-    </file>
-    <file name="254.jpg" crc="312289124" seo="true" ref="compassion-for-others">
-      <caption webpage="compassion-for-others" alt=""/>
-    </file>
-    <file name="12642439_10153455543959007_6098491029800078278_n.jpg" crc="4069713189" seo="true" ref="compassion-for-others">
-      <caption webpage="compassion-for-others" alt=""/>
-    </file>
-    <file name="u2469-61.png" crc="4003165917" ref="compassion-for-others"/>
+    <file name="u2469-61.png" crc="42688151" ref="compassion-for-others"/>
     <file name="u2485-4.png" crc="4274734566" ref="compassion-for-others"/>
     <file name="u2488-4.png" crc="4274734566" ref="compassion-for-others"/>
-    <file name="img_1834.jpg" crc="3763091240" seo="true" ref="compassion-for-others">
-      <caption webpage="compassion-for-others" alt=""/>
-    </file>
+    <file name="u2531-4.png" crc="3989965054" ref="depressedself-kindness"/>
+    <file name="u1911-34.png" crc="4257216455" ref="depressedself-kindness"/>
+    <file name="u2534-4.png" crc="3989965054" ref="depressedself-kindness"/>
+    <file name="u2537-4.png" crc="3989965054" ref="depressedall"/>
+    <file name="u1921-20.png" crc="3981805943" ref="depressedmindfulness"/>
+    <file name="u2546-4.png" crc="3989965054" ref="depressedmindfulness"/>
+    <file name="u1842-34.png" crc="4266658419" ref="depressedcommon-humanity"/>
+    <file name="u1845-20.png" crc="4158086376" ref="depressedcommon-humanity"/>
+    <file name="u2540-4.png" crc="3989965054" ref="depressedcommon-humanity"/>
+    <file name="u2543-4.png" crc="3989965054" ref="depressedcommon-humanity"/>
+    <file name="u2552-6.png" crc="4293580596" ref="angryall"/>
+    <file name="u2549-6.png" crc="4107927567" ref="angryall"/>
+    <file name="u2558-4.png" crc="81272654" ref="anxiousall"/>
+    <file name="u2555-4.png" crc="81272654" ref="anxiousall"/>
+    <file name="u1964-113.png" crc="13268279" ref="anxiousall"/>
   </folder>
   <file name="index.html" crc="4065022181" seo="true" mt="1522884448758" redirect="true"/>
   <file name="angryfrustrated.html" crc="404961017" seo="true" mt="1522805474608" redirect="true"/>
@@ -373,14 +368,14 @@
   <file name="angryself-kindness.html" crc="270986695" seo="true" mt="1522892536642" redirect="true"/>
   <file name="angrycommon-humanity.html" crc="3850372014" seo="true" mt="1522884140370" redirect="true"/>
   <file name="angrymindfulness.html" crc="316690340" seo="true" mt="1522889359625" redirect="true"/>
-  <file name="angryall.html" crc="288234489" seo="true" mt="1522892551037" redirect="true"/>
-  <file name="depressedself-kindness.html" crc="4016671974" seo="true" mt="1522884891994" redirect="true"/>
-  <file name="depressedall.html" crc="348309495" seo="true" mt="1522889442387" redirect="true"/>
-  <file name="depressedmindfulness.html" crc="386576019" seo="true" mt="1522885310509" redirect="true"/>
-  <file name="depressedcommon-humanity.html" crc="47081221" seo="true" mt="1522885255447" redirect="true"/>
+  <file name="angryall.html" crc="115394257" seo="true" mt="1522896773539" redirect="true"/>
+  <file name="depressedself-kindness.html" crc="4139955864" seo="true" mt="1522895600288" redirect="true"/>
+  <file name="depressedall.html" crc="33238853" seo="true" mt="1522896853521" redirect="true"/>
+  <file name="depressedmindfulness.html" crc="3865384797" seo="true" mt="1522896039865" redirect="true"/>
+  <file name="depressedcommon-humanity.html" crc="237142102" seo="true" mt="1522895854851" redirect="true"/>
   <file name="lonelyself-kindness.html" crc="4206400771" seo="true" mt="1522886571351" redirect="true"/>
   <file name="lonelyall.html" crc="30909628" seo="true" mt="1522888034111" redirect="true"/>
-  <file name="lonelymindfulness.html" crc="77674366" seo="true" mt="1522889385553" redirect="true"/>
+  <file name="lonelymindfulness.html" crc="134339132" seo="true" mt="1522894781014" redirect="true"/>
   <file name="lonelycommon-humanity.html" crc="299234836" seo="true" mt="1522886932358" redirect="true"/>
   <file name="stressedself-kindness.html" crc="3968239318" seo="true" mt="1522888277821" redirect="true"/>
   <file name="stressedall.html" crc="244069085" seo="true" mt="1522889245586" redirect="true"/>
@@ -390,12 +385,12 @@
   <file name="unmotivatedall.html" crc="3831218082" seo="true" mt="1522891300426" redirect="true"/>
   <file name="unmotivatedmindfulness.html" crc="14532125" seo="true" mt="1522891234091" redirect="true"/>
   <file name="unmotivatedcommon-humanity.html" crc="374621885" seo="true" mt="1522890253465" redirect="true"/>
-  <file name="anxiousall.html" crc="315950626" seo="true" mt="1522889215699" redirect="true"/>
+  <file name="anxiousall.html" crc="499189626" seo="true" mt="1522897143601" redirect="true"/>
   <file name="anxiousmindfulness.html" crc="40303415" seo="true" mt="1522888996246" redirect="true"/>
   <file name="anxiouscommon-humanity.html" crc="59697505" seo="true" mt="1522888501569" redirect="true"/>
   <file name="anxiousself-kindness.html" crc="3799052680" seo="true" mt="1522888284805" redirect="true"/>
   <file name="research.html" crc="4134619608" seo="true" mt="1522887659333" redirect="true"/>
   <file name="negative-emotion-practices.html" crc="3903803835" seo="true" mt="1522805474608" redirect="true"/>
-  <file name="full-list-of-practices.html" crc="3928210288" seo="true" mt="1522892571325" redirect="true"/>
-  <file name="compassion-for-others.html" crc="4268167136" seo="true" mt="1522892372357" redirect="true"/>
+  <file name="full-list-of-practices.html" crc="3928210288" seo="true" mt="1522895949273" redirect="true"/>
+  <file name="compassion-for-others.html" crc="4220035804" seo="true" mt="1522894700323" redirect="true"/>
 </manifest>
